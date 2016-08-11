@@ -1,4 +1,4 @@
-package substratum.theme.template;
+package substratum.theme.lightstar;
 
 import android.app.Activity;
 import android.content.ComponentName;
